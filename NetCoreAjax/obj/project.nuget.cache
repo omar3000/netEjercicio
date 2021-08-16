@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "okf/LOYjmlD8exR8MHJ3ItNV90mzKADCO3F+cwAAbeACwrZUZhNJeaXnTb+3shP13UAjQx+q5sMdAvBGz6/ABg==",
+  "success": true,
+  "projectFilePath": "/Users/OFA19/Documents/pytracking/borrar/netEjercicio/NetCoreAjax/NetEjercicio.csproj",
+  "expectedPackageFiles": [
+    "/Users/OFA19/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
