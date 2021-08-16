@@ -11,7 +11,13 @@
     <OutputPath>bin\Release</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <Compile Remove="Views\Home\index.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\css\Index.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
   </ItemGroup>
 
 </Project>
