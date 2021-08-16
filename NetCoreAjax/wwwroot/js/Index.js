@@ -29,7 +29,7 @@
             success: function (data) {
                 $("#loader").hide();
                 let users = jQuery.parseJSON(data);
-                let htmlString = "<table class='EstiloBAMSA'> <tr> <th>Id </th> <th>Nombre</th> </tr> "
+                let htmlString = "<table> <tr> <th>Id </th> <th>Nombre</th> </tr> "
 
                 $.each(users, (index, value) => {
                     htmlString += `<tr> <td> ${value.Id} </td> <td> ${value.Name}</td> </tr>`;

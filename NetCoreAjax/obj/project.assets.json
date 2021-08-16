@@ -2684,11 +2684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\netEjercicio-master\\NetCoreAjax\\NetEjercicio.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\NetEjercicio\\NetCoreAjax\\NetEjercicio.csproj",
       "projectName": "NetEjercicio",
-      "projectPath": "C:\\Users\\Lenovo\\Downloads\\netEjercicio-master\\NetCoreAjax\\NetEjercicio.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\NetEjercicio\\NetCoreAjax\\NetEjercicio.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Downloads\\netEjercicio-master\\NetCoreAjax\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\NetEjercicio\\NetCoreAjax\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

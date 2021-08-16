@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k2mI3JDZJEm4bg+TnRBS12ihSqxE+kuXl4x7pNtlnDG6kz0MN0lnfqXGat8baFHHVeVoMa7/UvWogeitisrvqg==",
+  "dgSpecHash": "2VOe2zNohKr+HQeTvwIPdRkm2UiOS9LZSvyxFUfWN0Bu+dKGUVlidS7C0Vim0Jb/gKIptbsWYVuKQUZnxWEvpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\netEjercicio-master\\NetCoreAjax\\NetEjercicio.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\NetEjercicio\\NetCoreAjax\\NetEjercicio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
